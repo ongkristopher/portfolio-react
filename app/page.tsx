@@ -5,7 +5,7 @@ export default function Component() {
         <section className="w-full py-8 md:py-16 lg:py-20 xl:py-24">
           <div className="container flex flex-col items-center justify-center space-y-4 px-4 md:px-6">
             <div className="text-center space-y-2">
-              <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl tracking-tighter sm:text-3xl hollowed-text">Hi, I'm Kristopher Ong</h1>
+              <h1 className="scroll-m-20 text-4xl font-extrabold tracking-tight lg:text-5xl tracking-tighter sm:text-3xl hollowed-text">Hi, I&apos;m Kristopher Ong</h1>
               <p className="max-w-[600px] text-gray-500 md:text-lg/relaxed lg:text-base/relaxed xl:text-lg/relaxed text-white">
               Crafting digital magic with code: where experience meets innovation!
               </p>
@@ -17,7 +17,7 @@ export default function Component() {
             <div className="space-y-3">
               <h2 className="text-xl font-bold tracking-tighter sm:text-2xl md:text-3xl text-zinc-400">Experience</h2>
               <p className="mx-auto max-w-[600px] text-gray-500 md:text-base/relaxed lg:text-sm/relaxed xl:text-base/relaxed text-white">
-              Experienced Web Developer with 6 years and 6 months of hands-on experience in the computer software industry. Strong engineering professional with a Bachelor's degree focused in Computer Science from Norzagaray College.
+              Experienced Web Developer with 6 years and 6 months of hands-on experience in the computer software industry. Strong engineering professional with a Bachelor&apos;s degree focused in Computer Science from Norzagaray College.
               </p>
             </div>
           </div>
@@ -37,7 +37,7 @@ export default function Component() {
             <div className="space-y-3">
               <h2 className="text-xl font-bold tracking-tighter sm:text-2xl md:text-3xl text-zinc-400">Education</h2>
               <p className="mx-auto max-w-[600px] text-gray-500 md:text-base/relaxed lg:text-sm/relaxed xl:text-base/relaxed text-white">
-                Strong engineering professional with a Bachelor's degree focused in Computer Science from Norzagaray College.
+                Strong engineering professional with a Bachelor&apos;s degree focused in Computer Science from Norzagaray College.
               </p>
             </div>
           </div>
@@ -78,7 +78,7 @@ export default function Component() {
             <div className="space-y-3">
               <h2 className="text-xl font-bold tracking-tighter sm:text-2xl md:text-3xl text-zinc-400">Awards</h2>
               <p className="mx-auto max-w-[600px] text-gray-500 md:text-base/relaxed lg:text-sm/relaxed xl:text-base/relaxed text-white">
-                Strong engineering professional with a Bachelor's degree focused in Computer Science from Norzagaray College.
+                Strong engineering professional with a Bachelor&apos;s degree focused in Computer Science from Norzagaray College.
               </p>
             </div>
           </div>
